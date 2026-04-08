@@ -64,3 +64,4 @@ Open `output/outreach.csv`. Each row includes the original lead data plus:
 ## Configuration
 
 ICP scoring rules are defined in `agents/icp_config.json`. Edit the criteria and weights to match your target customer profile before running.
+"# gtm-workflow" 
