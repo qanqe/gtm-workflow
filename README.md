@@ -1,6 +1,6 @@
 # GTM Outbound Workflow
 
-An automated outbound sales pipeline that scores leads against ICP criteria and generates personalized first lines — ready to drop into any email or LinkedIn sequence.
+An automated outbound sales pipeline that scores leads against ICP criteria and generates personalized first lines - ready to drop into any email or LinkedIn sequence.
 
 ---
 
@@ -14,13 +14,13 @@ This workflow fixes that. Drop in a CSV, run one command, get a prioritized list
 
 ## How It Works
 
-**Step 1 — Score**
+**Step 1 - Score**
 Each lead is evaluated across three ICP dimensions: title seniority, industry fit, and company size. Scores are calculated on a 0–10 scale and leads are ranked accordingly.
 
-**Step 2 — Prioritize**
+**Step 2 - Prioritize**
 The scored list is sorted highest to lowest, surfacing the best-fit prospects at the top so reps know exactly where to start.
 
-**Step 3 — Personalize**
+**Step 3 - Personalize**
 A signal-aware first line is generated for each lead based on their recent activity — funding rounds, new hires, market expansions, job postings, and more.
 
 ---
